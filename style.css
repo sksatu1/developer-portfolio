@@ -11,7 +11,7 @@ h1{
 .text-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -37,6 +37,8 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+ 
+/* dream big part */
 
 .dream-big{
     background-image: url(images/dream-bg.png);
